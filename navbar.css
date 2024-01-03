@@ -1,0 +1,40 @@
+#navbar{
+    position: fixed;
+    margin-top: 5%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: transparent;
+    backdrop-filter: blur(2px);
+    z-index: 1;
+    padding: 10px;
+    font-size: x-large;
+    text-decoration: none;
+}
+.homeicon{
+    height: 20px;
+    text-decoration: none;
+}
+#socailh{
+    font-size: x-large;
+    align-items: center;
+    padding-left: 10px;
+    text-decoration: none;
+}
+.socialicon{
+    height: 20px;
+    text-decoration: none;
+}
+.home{
+    background: transparent;
+    backdrop-filter: blur(2px);
+    text-decoration: none;
+}
+.homebuttons{
+    background: transparent;
+    backdrop-filter: blur(2px);
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}

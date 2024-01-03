@@ -1,0 +1,27 @@
+*{
+    
+}
+#hero{
+    background-image: url(./images/pexels-andrea-piacquadio-3769139.jpg);
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    height: 800px;
+    padding-left: 15%;
+    padding-top: 25px;
+    margin: 0;
+}
+#head{
+    margin-left: 400px;
+    width: 250 px;
+    font-size: xx-large;
+}
+#about{
+    color:aliceblue;
+    margin-left: 50px;
+    background: transparent;
+    backdrop-filter: blur(8px);
+    font-size: x-large;
+    padding-left: 100px;
+    width: 800px;
+}

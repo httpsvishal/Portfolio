@@ -1,0 +1,24 @@
+#education{
+    background-image: url(./images/pexels-olia-danilevich-5088017.jpg);
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    height: 800px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#eduh{
+    margin-top: 0px;
+    margin-left: 600px;
+    padding-top: 60px;
+    font-size: xx-large;
+}
+.edustages{
+    margin-left: 300px;
+}
+.eduplace{
+    font-size: 40px;
+}
+.eduhead{
+    font-size: 20px;
+}

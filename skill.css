@@ -1,0 +1,52 @@
+#skills{
+    background-image: url(./images/5137780.jpg);
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    height: 800px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+#heads{
+    display: flex;
+}
+
+#skillhead{
+    text-align: center;
+    margin-top: 0px;
+    font-size: 80px;
+    padding-top: 30px;
+}
+#technical{
+    margin-left: 200px;
+}
+#technicalhead{
+    padding-left: 200px;
+    font-size: 40px;
+}
+#softhead{
+    margin-left: 350px;
+    font-size: 40px;
+}
+#techni{
+    display: flex;
+    margin-left: 50px;
+}
+.programmings{
+    margin : 40px;
+    margin-right: 50px;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: x-large;
+}
+.programmings p{
+    text-align: center;
+}
+.prologo{
+    height: 25px;
+    
+}

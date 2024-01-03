@@ -1,0 +1,74 @@
+#forms{
+    background-image: url(./images/pexels-cottonbro-studio-5474294.jpg);
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    height: 800px;
+    margin-top: 0;
+}
+#form{
+   
+    padding-top: 180px;
+}
+#formbox{
+    display: inline-block;
+    height: 400px;
+    width: 500px;
+    background: transparent;
+    backdrop-filter: blur(4px);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 450px;
+    padding: 40px;
+    font-size: large;
+    align-self: auto;
+}
+#formhead{
+    padding-left: 180px;
+}
+input{
+    width: 150px;
+    background: transparent;
+    backdrop-filter: blur(4px);
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 20px;
+}
+#resbut{
+    width: 60px;
+    margin-left: 200px;
+}
+#qname{
+    margin-left: 40px;
+}
+#qemail{
+    margin-left: 16px
+}
+#phoneno{
+    margin-left: 12px;
+}
+#subject{
+    margin-left: 30px;
+}
+#message{
+    margin-left: 20px;
+    background: transparent;
+    backdrop-filter: blur(4px);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#howtoconnect{
+    background: transparent;
+    backdrop-filter: blur(4px);
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+}
+#submit{
+    background: transparent;
+    backdrop-filter: blur(4px);
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 20px;
+}

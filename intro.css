@@ -1,0 +1,33 @@
+#intro{
+    background-image: url(./images/background.jpg);
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    height: 600px;
+    text-align: center;
+    padding-left: 20%;
+    padding-top: 15%;
+    margin: 0;
+    display: flex;
+}
+#name{
+    background: transparent;
+    backdrop-filter: blur(8px);
+    font-size: xx-large;
+    padding-left: 100px;
+}
+#overview{
+    background: transparent;
+    backdrop-filter: blur(8px);
+    font-size: x-large;
+    padding: 30px;
+    padding-left: 100px;
+}
+#img{
+    height: 250px;
+    border-radius: 50%;
+}
+#myimage{
+    padding-top: 50px;
+}
+
